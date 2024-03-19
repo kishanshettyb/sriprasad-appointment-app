@@ -2,6 +2,7 @@
   "expo": {
     "name": "sriprasad-appointment-app",
     "slug": "sriprasad-appointment-app",
+    "scheme":"sriprasad-appointment-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
