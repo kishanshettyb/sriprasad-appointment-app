@@ -1,6 +1,7 @@
 import { Text, View } from "react-native";
 
 import { useSession } from "../../ctx";
+import Slider from "../components/Slider";
 
 export default function Index() {
 	const { signOut } = useSession();
